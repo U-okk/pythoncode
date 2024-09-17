@@ -1,0 +1,57 @@
+[
+    {
+        "name": "Kyzer",
+        "birthday": "01/15/2004",
+        "allowance": 400.0,
+        "skills": [
+            "sleeping",
+            " html",
+            ""
+        ]
+    },
+    {
+        "name": "Kyzz",
+        "birthday": "01/15/2004",
+        "allowance": 300.0,
+        "skills": [
+            "html",
+            "css",
+            "javascript"
+        ]
+    },
+    {
+        "name": "Kyze",
+        "birthday": "01/03/2004",
+        "allowance": 123.0,
+        "skills": [
+            "run",
+            "walk",
+            "sleep"
+        ]
+    },
+    {
+        "name": "k",
+        "birthday": "01/01/2001",
+        "allowance": 123.0,
+        "skills": [
+            "123"
+        ]
+    },
+    {
+        "name": "kyzz",
+        "birthday": "01/01/2002",
+        "allowance": 123.0,
+        "skills": [
+            "sad"
+        ]
+    },
+    {
+        "name": "Kyzzen",
+        "birthday": "01/15/2004",
+        "allowance": 400.0,
+        "skills": [
+            "hello",
+            "world"
+        ]
+    }
+]
